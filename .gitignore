@@ -24,3 +24,8 @@
 
 # Ignore emacs files
 *~
+
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/Pi-Control.iml
+/.idea/workspace.xml
